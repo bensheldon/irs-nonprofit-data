@@ -1,0 +1,10 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    zipruby (0.3.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  zipruby

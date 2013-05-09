@@ -1,0 +1,38 @@
+996048709|John T Waterhouse Share No 3 Trust|Honolulu|HI|United States|SOUNK
+996048710|John T Waterhouse Share No 4 Trust|Honolulu|HI|United States|SOUNK
+996050638|Mildred Towle Scholarship Trust Fund|Honolulu|HI|United States|PF
+996052196|Gee Hing Chinese Company Trust Dtd 010787|Honolulu|HI|United States|PF
+996053606|Dorothy B Anderson Perpetual Charitable Tr 102086 15727000|Honolulu|HI|United States|PF
+996055912|Diamond Resort Scholarships|Wailuku|HI|United States|PF
+996056042|Kathy Morris Memorial Scholarship F Oundation|Kihei|HI|United States|PC
+996056060|J P Ohlman Family Charitable Trust|Eastsound|WA|United States|PF
+996058300|Georgina H Walker Trust|Honolulu|HI|United States|PF
+996058301|Ralph A Walker Trust|Honolulu|HI|United States|PF
+996061295|McLaren C Child Rvoc Living Tr 032376|Mililani|HI|United States|PF
+996062458|Robert E Black Memorial Trust|Honolulu|HI|United States|SOUNK
+996062933|Waipahu Community Foundation Tr 072092|Honolulu|HI|United States|SOUNK
+996063983|Luomala Charitable Tr 022792|Honolulu|HI|United States|PF
+996064620|Parker Ranch Foundation Tr 091092|Kamuela|HI|United States|SOUNK
+996065390|Christine M Marsh Charitable Tr 032491|Honolulu|HI|United States|PF
+996073417|Leci Properties Tr 100995|Jersey City|NJ|United States|POF
+996074970|Honolulu Fire Department Firemans Fund Foundation Charitable Tr|Honolulu|HI|United States|PC
+996078202|Joseph Campbell Foundation Endowment Trust|San Anselmo|CA|United States|SOUNK
+996078252|David C Ai Crat 05051996|Honolulu|HI|United States|SOUNK
+996081118|Kekua Foundation|Hilo|HI|United States|PC
+996081402|John Chin Young Foundation|Honolulu|HI|United States|PF
+996082178|Ramsay Foundation Tr|New York|NY|United States|PF
+996082996|Richard & Eleanor Imai Shin Buddhis Scholarship Charitable Foundation|Honolulu|HI|United States|PF
+996086871|Waterhouse Charitable Tr|Honolulu|HI|United States|SOUNK
+996087839|Keiki Kohola Project|Oxnard|CA|United States|PF
+996088748|Unoyo Kojima Trust|Honolulu|HI|United States|PF
+996089401|Toyo Sakumoto Charitable Tr|Honolulu|HI|United States|PF
+998010224|Hawaii Foundation for the Blind|Honolulu|HI|United States|POF
+999999003|Anacostia Neighborhood Museum of the Smithsonian Institution|Washington|DC|United States|EO
+999999004|Chesapeake Bay Center for Environmental Studies of Smithsonian|Washington|DC|United States|EO
+999999005|Freer Gallery of Art of the Smithsonian Institution|Washington|DC|United States|EO
+999999006|Museum of African Art of the Smithsonian Institution|Washington|DC|United States|EO
+999999007|Smithsonian Astrophysical Observatory of the Smithsonian Inst.|Washington|DC|United States|EO
+999999008|Smithsonian Tropical Research Institute of the Smithsonian Inst.|Washington|DC|United States|EO
+999999009|Clipped Wings United Air Line Stewardess Alumnae & Flight Attendants|Pensacola|FL|United States|PC
+999999010|Association of Fundraising Professionals|Arlington|VA|United States|PC
+999999062|United States Holocaust Memorial Museum|Washington|DC|United States|EO
